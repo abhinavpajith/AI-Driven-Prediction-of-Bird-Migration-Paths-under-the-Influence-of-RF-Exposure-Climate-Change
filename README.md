@@ -1,0 +1,2 @@
+# AI---Driven-Prediction-of-Bird-Migration-Paths-under-the-Influence-of-RF-Exposure-Climate-Change
+Developed an MLP regression model to predict barnacle goose migration paths, achieving average longitude and latitude errors of 0.97% and 0.36%, respectively. Analyzed long-term migration patterns using Cartopy-based geospatial visualization to identify directional shifts and potential environmental influences.
